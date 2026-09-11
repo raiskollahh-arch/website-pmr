@@ -1,0 +1,6 @@
+{
+  "name": "PMR Wira SMKN 3 Banjarmasin",
+  "description": "Website profil resmi PMR Wira SMKN 3 Banjarmasin dengan direktori anggota, agenda kegiatan, pendaftaran relawan, dan kontak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
